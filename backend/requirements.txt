@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# PyTorch (recommended for BERT)
+torch
+torchvision
+torchaudio
+
+# Hugging Face ecosystem
+transformers
+datasets
+tokenizers
+accelerate
+
+# NLP utilities
+nltk
+spacy
+sentencepiece
+
+# Model evaluation & metrics
+evaluate
+seqeval
+
+# Utilities
+tqdm
+regex
+pyyaml
